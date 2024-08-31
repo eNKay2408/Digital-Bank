@@ -1,0 +1,9 @@
+<svg width="200" height="50" viewBox="0 0 200 50" xmlns="http://www.w3.org/2000/svg">
+  <!-- Symbol -->
+  <circle cx="25" cy="25" r="20" fill="#82dee4"/>
+  <circle cx="25" cy="25" r="15" fill="#050812"/>
+
+  <!-- Text -->
+  <text x="55" y="35" font-family="Roboto Condensed, sans-serif" font-size="25" fill="#82dee4">eNKay</text>
+  <text x="128" y="35" font-family="Roboto Condensed, sans-serif" font-size="25" fill="white">Bank</text>
+</svg>
