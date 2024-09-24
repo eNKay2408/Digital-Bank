@@ -8,13 +8,13 @@ const Navbar = () => {
 
 	return (
 		<nav className="w-full flex py-6 justify-between items-center">
-			<img src={logo} alt="enkaybank" className="w-[140px]" />
+			<img src={logo} alt="enkaybank" className="w-[140px] opacity-80" />
 
 			<ul className="list-none sm:flex hidden justify-end items-center flex-1">
 				{navLinks.map((nav, index) => (
 					<li
 						key={nav.id}
-						className={`font-poppins font-normal cursor-pointer text-[16px] text-white ${
+						className={`font-poppins font-normal cursor-pointer text-[16px] text-white hover:text-secondary ${
 							index === navLinks.length - 1 ? "mr-0" : "mr-10"
 						}`}
 					>
