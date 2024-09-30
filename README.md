@@ -12,7 +12,7 @@
 
   <img width="595px" src="https://res.cloudinary.com/dvzhmi7a9/image/upload/v1727286835/DigitalBank/1-Hero.png">
 
-  [![Live Demo](https://img.shields.io/badge/🔗_Visit_website-black?style=flat)](https://digital-bank.enkay.live)
+  [![Live Demo](https://img.shields.io/badge/🔗_Visit_website-white?style=flat)](https://digital-bank.enkay.live)
 </div>
 
 ## 📘 Table of Contents
@@ -95,7 +95,7 @@ npm run dev
 
 #### 5. Make changes to the code and see the changes reflected in real-time.
 
-### 🔄 CI/CD
+### 🔄 CI/CD - GitLab
 
 #### 1. Create GitHub repository and add remote URL to the local repository.
 - Because GitLab CI/CD is used for building and deploying the application
